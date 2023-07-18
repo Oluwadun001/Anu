@@ -4,7 +4,7 @@
 
 - <b>Labs (AlgoExpert)</b>
   - 
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>Screenshoots </b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Certifications</b>
   - [Cyber Security Consulting Virtual Experience
