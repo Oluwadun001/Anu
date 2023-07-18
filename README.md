@@ -13,13 +13,12 @@ Program-PWC](https://forage-uploads-prod.s3.amazonaws.com/completion-certificate
 Experience Program-ANZ](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ANZ/Hf4QMESoFeQwXPsiH_ANZ%20Australia_AekdAMTXJq6RMj5ca_1687480334131_completion_certificate.pdf)
   - [Cybersecurity Virtual Experience Program- Telstra
 ](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Telstra%20AU/RNhbu8QnDzthwynEf_Telstra_AekdAMTXJq6RMj5ca_1687582897684_completion_certificate.pdf)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Building Your Personal Brand Virtual
+Experience Programme-Ashurst](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Ashurst/nkcHurhKngD7a898m_Ashurst%20UK_AekdAMTXJq6RMj5ca_1689369685172_completion_certificate.pdf)
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  
 
 <h2>📺 Popular YouTube Videos</h2>
 
@@ -28,10 +27,6 @@ Experience Program-ANZ](https://forage-uploads-prod.s3.amazonaws.com/completion-
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 [youtube]: https://www.youtube.com/@anutemitope3587/videos
